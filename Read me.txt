@@ -1,0 +1,4 @@
+--------------------------------------Read me----------------------------------------------
+
+This is not a full feature application. This is just an assignment for my programming course at university. 
+Please feel free to modify this template;
